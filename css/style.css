@@ -1,7 +1,7 @@
 @font-face {
   font-family: "Muller";
-  src: url(/fonts/MullerLight.woff) format(woff),
-    url(/fonts/MullerLight.woff2) format(woff2);
+  src: url(../fonts/MullerLight.woff) format(woff),
+    url(../fonts/MullerLight.woff2) format(woff2);
   font-display: swap;
   font-weight: lighter;
   font-style: normal;
@@ -9,8 +9,8 @@
 
 @font-face {
   font-family: "Muller";
-  src: url(/fonts/MullerRegular.woff) format(woff),
-    url(/fonts/MullerRegular.woff2) format(woff2);
+  src: url(../fonts/MullerRegular.woff) format(woff),
+    url(../fonts/MullerRegular.woff2) format(woff2);
   font-display: swap;
   font-weight: normal;
   font-style: normal;
@@ -18,8 +18,8 @@
 
 @font-face {
   font-family: "Muller";
-  src: url(/fonts/MullerMedium.woff) format(woff),
-    url(/fonts/MullerMedium.woff2) format(woff2);
+  src: url(../fonts/MullerMedium.woff) format(woff),
+    url(../fonts/MullerMedium.woff2) format(woff2);
   font-display: swap;
   font-weight: 500;
   font-style: normal;
@@ -27,8 +27,8 @@
 
 @font-face {
   font-family: "Muller";
-  src: url(/fonts/MullerBold.woff) format(woff),
-    url(/fonts/MullerBold.woff2) format(woff2);
+  src: url(../fonts/MullerBold.woff) format(woff),
+    url(../fonts/MullerBold.woff2) format(woff2);
   font-display: swap;
   font-weight: bold;
   font-style: normal;
@@ -65,8 +65,6 @@ img {
 .container {
   max-width: 1200px;
   margin: auto;
-  /* padding-left: 375px;
-  padding-right: 375px; */
 }
 
 h2,
@@ -134,7 +132,7 @@ h3 {
   border: 1px solid #f1f1f1;
   border-radius: 15px;
   font-size: 18px;
-  background-image: url(/image/svg/search-svg.svg);
+  background-image: url(../image/svg/search-svg.svg);
   background-size: 20px 20px;
   background-repeat: no-repeat;
   background-position: right;
@@ -191,7 +189,7 @@ h3 {
 
 .specials-article {
   display: block;
-  background-image: url(/image/img/luxe.jpg);
+  background-image: url(../image/img/luxe.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 540px;
@@ -225,7 +223,7 @@ h3 {
   font-size: 16px;
   color: #ffcc66;
   font-weight: 500;
-  background-image: url(/image/svg/arrow1.svg);
+  background-image: url(../image/svg/arrow1.svg);
   background-size: contain;
   background-position-x: right;
   padding-right: 10px;
@@ -312,7 +310,7 @@ h3 {
 }
 
 .service-link {
-  background-image: url("../image/svg/arrow1.svg");
+  background-image: url(../image/svg/arrow1.svg);
   background-repeat: no-repeat;
   background-position: right center;
   padding-right: 18px;
@@ -466,7 +464,7 @@ h3 {
   font-size: 22px;
   color: #fff;
   font-weight: 500;
-  background-image: url(/image/svg/white-arrow.svg);
+  background-image: url(../image/svg/white-arrow.svg);
   position: relative;
 }
 
@@ -483,7 +481,7 @@ h3 {
   padding-right: 25px;
   background-color: transparent;
   color: #fff;
-  background-image: url(/image/svg/white-arrow.svg);
+  background-image: url(../image/svg/white-arrow.svg);
   background-repeat: no-repeat;
   background-position-x: right;
   background-position-y: 367px;
