@@ -5,6 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+hotels+demo-site)](https://git.io/typing-svg)</br>
 https://archienko.github.io/aeremenko-hotels/</br></br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=archienko&repo=aeremenko-hotels)](https://github.com/archienko/aeremenko-hotels)</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archienko&layout=compact)](https://github.com/archienko/aeremenko-hotels)</br>
 ![Jokes Card](https://readme-jokes.vercel.app/api)</br>
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)</br>
